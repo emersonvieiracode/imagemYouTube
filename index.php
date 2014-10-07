@@ -31,8 +31,8 @@
   
     <!--
     Modo de Aplicação
-    o segundo parametro passado é a $tipo
+    o segundo parametro passado é o $tipo
     -->
-    <img src="<?php echo imagemYouTube($row-videos->url, '1')?>" class="form">
+    <img src="<?php echo imagemYouTube($rowVideos->url, '1')?>" class="form">
 </body>
 </html>

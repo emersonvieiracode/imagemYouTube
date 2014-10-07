@@ -1,4 +1,5 @@
-imagemYouTube
+imagem YouTube
 =============
 
-Obter miniaturas de videos do youtube
+Função expecífica para obter as miniaturas dos vídeos
+do youtube.

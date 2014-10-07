@@ -32,6 +32,7 @@
     <!--
     Modo de Aplicação
     o segundo parametro passado é o $tipo
+    asdasdasd
     -->
     <img src="<?php echo imagemYouTube($rowVideos->url, '1')?>" class="form">
 </body>
